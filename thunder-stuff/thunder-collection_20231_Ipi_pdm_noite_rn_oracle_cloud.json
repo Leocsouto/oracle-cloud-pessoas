@@ -1,0 +1,37 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "20231_Ipi_pdm_noite_rn_oracle_cloud",
+    "dateExported": "2023-05-12T22:52:01.720Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "e2594a32-ea4e-4627-b2e1-2ae0becbb616",
+            "colId": "6cc403ca-8490-4308-ba71-8531b3ec9f2e",
+            "containerId": "",
+            "name": "obterPessoas",
+            "url": "https://g7b6e620787d151-s2204lud7dpmx4b7.adb.us-ashburn-1.oraclecloudapps.com/ords/admin/tb_pessoa/",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-05-12T22:42:37.261Z",
+            "modified": "2023-05-12T22:42:44.531Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "63e300be-9343-4219-a40a-e143140db854",
+            "colId": "6cc403ca-8490-4308-ba71-8531b3ec9f2e",
+            "containerId": "",
+            "name": "salvarPessoa",
+            "url": "https://g7b6e620787d151-s2204lud7dpmx4b7.adb.us-ashburn-1.oraclecloudapps.com/ords/admin/tb_pessoa/",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2023-05-12T22:43:41.382Z",
+            "modified": "2023-05-12T22:44:00.077Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
